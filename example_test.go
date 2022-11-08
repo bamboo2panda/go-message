@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/emersion/go-message"
+	"github.com/bamboo2panda/go-message"
 )
 
 func ExampleRead() {
